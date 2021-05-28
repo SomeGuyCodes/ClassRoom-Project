@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="158eedb3-495e-4426-826d-eeb8dad3efdf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t2tCpGyndjcaBjoufORd0c6Bfa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment1/src/com/forth/Consonants.java" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.forth.Main" />
+      <module name="ClassRoom2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.Scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="158eedb3-495e-4426-826d-eeb8dad3efdf" name="Default Changelist" comment="" />
+      <created>1621978886197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621978886197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1622131757185">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622131757185" />
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1622222548064">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548064" />
+    <state width="1317" height="227" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
+    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1622222548064">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548064" />
+    <state width="1317" height="227" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
+    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1622222548063">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548063" />
+    <state width="1317" height="227" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
+    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1622222548064">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548064" />
+    <state width="1317" height="227" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1622131652004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622131652004" />
+    <state x="303" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1622004402867">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622004402867" />
+  </component>
+</project>
