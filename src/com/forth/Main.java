@@ -51,6 +51,7 @@ public class Main {
                 break;
             case 4:
                 test.listStudents();
+                System.out.println("\n");
                 System.out.println("(1)Add Student   (2)Remove Student  (3)Update Student Info  (4)Current Students   (5)Quit");
                 System.out.println("Please select number or hit (5) to quit.");
                 status = scan.nextInt();

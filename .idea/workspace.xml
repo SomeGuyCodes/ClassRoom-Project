@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="158eedb3-495e-4426-826d-eeb8dad3efdf" name="Default Changelist" comment="" />
+    <list default="true" id="158eedb3-495e-4426-826d-eeb8dad3efdf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassRoom2/com/forth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassRoom2/com/forth/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ClassRoom2/com/forth/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassRoom2/com/forth/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forth/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forth/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forth/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +20,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1t2tCpGyndjcaBjoufORd0c6Bfa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment1/src/com/forth/Consonants.java" />
   </component>
@@ -67,25 +78,25 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622131757185" />
-    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1622222548064">
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1622243286349">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548064" />
+    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622243286349" />
     <state width="1317" height="227" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
-    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1622222548064">
+    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1622243286349">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548064" />
+    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622243286349" />
     <state width="1317" height="227" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
-    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1622222548063">
+    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1622243286349">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548063" />
+    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622243286349" />
     <state width="1317" height="227" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
-    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1622222548064">
+    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1622243286349">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622222548064" />
+    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622243286349" />
     <state width="1317" height="227" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1360.768@1920.0.1360.768" timestamp="1622174118313" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1622131652004">
       <screen x="0" y="0" width="1280" height="720" />
@@ -95,5 +106,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="303" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622004402867" />
+    <state x="91" y="0" key="new project wizard" timestamp="1622241053469">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.720/1920.0.1360.768@0.0.1280.720" timestamp="1622241053469" />
   </component>
 </project>

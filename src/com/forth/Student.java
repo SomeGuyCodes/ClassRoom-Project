@@ -25,22 +25,7 @@ public class Student {
     int stunum=-1;
     int index = 0;
     ArrayList<String> stuFullNames = new ArrayList<String>(20);
-    //stuFullNames = {stuNames[0]+" "+stuLastNames[0]+"\n", stuNames[1]+" "+ stuLastNames[1]+"\n", stuNames[2]+" "+ stuLastNames[2]+"\n", stuNames[3]+" "+ stuLastNames[3]+"\n", stuNames[4]+" "
-            //+ stuLastNames[4]+"\n", stuNames[5]+" "+ stuLastNames[5]+"\n", stuNames[6]+" "+ stuLastNames[6]+"\n", stuNames[7]+" "+ stuLastNames[7]+"\n", stuNames[8]+" "+ stuLastNames[8] +"\n", stuNames[9]+" "+ stuLastNames[9]};
-    //String allStudents = stuNames[0]+" "+stuLastNames[0]+"\n"+ stuNames[1]+" "+ stuLastNames[1]+"\n"+ stuNames[2]+" "+ stuLastNames[2]+" "+ stuNames[3]+" "+ stuLastNames[3]+" "+ stuNames[4]+" "
-            //+ stuLastNames[4]+" "+ stuNames[5]+" "+ stuLastNames[5]+" "+ stuNames[6]+" "+ stuLastNames[6]+" "+ stuNames[7]+" "+ stuLastNames[7]+" "+ stuNames[8]+" "+ stuLastNames[8] +" "+ stuNames[9]+" "+ stuLastNames[9];
-    /*Student studentOne = new Student();
-    Student studentThree = new Student();
-    Student studentTwo = new Student();
-    Student studentFour = new Student();
-    Student studentFive = new Student();
-    Student studentSix = new Student();
-    Student studentSeven = new Student();
-    Student studentEight = new Student();
-    Student studentNine = new Student();
-    Student studentTen = new Student();*/
-    /*String totalStudents[] ={studentOne.getName(),studentTwo.getName(),studentThree.getName(),studentFour.getName(),studentFive.getName(),studentSix.getName(),studentSeven.getName(),
-            studentEight.getName(),studentNine.getName(),studentTen.getName()};*/
+
     public String getName() {
         return Name;
     }
@@ -106,55 +91,35 @@ public class Student {
                 Scanner scans = new Scanner(System.in);
                 System.out.println("Enter student first name:");
                 stuNames.add(scans.nextLine());
-                //stuFullNames.add(stuNames.get(stunum));
-                //newStu.setName(stuNames[stunum]);
+
                 stuIndex.add(index);
                 index++;
-                //System.out.println(stuNames[stunum]);
-                //System.out.println(stuFullNames[stunum]);
-                //System.out.println(stunum);
+
 
                 System.out.println("Enter student last name:");
                 stuLastNames.add(scans.nextLine());
                 String entry = stuNames.get(stunum) + " " + stuLastNames.get(stunum);
                 stuFullNames.add(entry);
-                System.out.println(stuFullNames.get(stunum));
-                //newStu.setLastName(stuLastNames[stunum]);
+                //System.out.println(stuFullNames.get(stunum));
 
-                //System.out.println(stuLastNames[stunum]);
-                //System.out.println(allStudents);
 
                 System.out.println("Enter student telephone number:");
                 stuPhoneNums.add(scans.nextLong());
 
-                //newStu.setPhoneNumber(stuPhoneNums[stunum]);
-
-                //System.out.println(stuPhoneNums[stunum]);
-                //System.out.println(allStudents);
 
                 System.out.println("Enter student Gpa");
                 stuGpa.add(scans.nextDouble());
 
-                //newStu.setgPA(stuGpa[stunum]);
-
-                //System.out.println(stuGpa[stunum]);
-                //System.out.println(allStudents);
 
                 System.out.println("Enter student social security number:");
                 stuSsn.add(scans.nextInt());
 
-                //newStu.setsSN(stuSsn[stunum]);
 
-                //System.out.println(stuSsn[stunum]);
-                //System.out.println(allStudents);
 
                 System.out.println("Enter student Email Address:");
                 Scanner scan2 = new Scanner(System.in);
                 stuEmails.add(scan2.nextLine());
-                //newStu.seteMail(stuEmails[stunum]);
 
-                //System.out.println(stuEmails[stunum]);
-                //System.out.println(allStudents);
 
                 stuIds.add(createId());
                 for(int i=0; i>stuIds.size(); i++){
@@ -179,13 +144,14 @@ public class Student {
         //Collections.sort(stuFullNames);  // Sort cars
         //for (String i : stuFullNames) {
             for (int x = 0; x < stuFullNames.size(); x++) {
-                System.out.println(stuFullNames.get(x) /*": Student index number is: " + stuIndex.get(x) + "name at index " + x + "in name array is: " + stuNames.get(x) + "\n"
-                        + "Last name at index " + x + "in namesake array is: " + stuLastNames.get(x) + "\n"
-                        + "Telephone number at index " + x + "in namesake array is: " + stuPhoneNums.get(x) + "\n"
-                        + "Gpa at index " + x + "in namesake array is: " + stuGpa.get(x) + "\n"
-                        + "Student Social at index" + x + "in namesake array is: " + stuSsn.get(x) + "\n"
-                        + "Student email address at index " + x + "in namesake array is: " + stuEmails.get(x) + "\n"
-                        + "Student ID at index " + x + "in namesake array is: " + stuIds.get(x)*/);
+                System.out.println("First Name: " + stuNames.get(x));
+                System.out.println("Last Name: " + stuLastNames.get(x));
+                System.out.println("Phone Number: " + stuPhoneNums.get(x));
+                System.out.println("Grade Point Average: " + stuGpa.get(x));
+                System.out.println("Social Security Number: " + stuSsn.get(x));
+                System.out.println("Email Address: " + stuEmails.get(x));
+                System.out.println("Student Id: " + stuIds.get(x));
+                System.out.println("****************************************");
             }
 
         }
